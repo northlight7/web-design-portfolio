@@ -6,7 +6,12 @@ A curved filmstrip unfurls into a cinema screen, leading into a programme you ca
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-overture/)** · [View source code](https://github.com/northlight7/cinematic-overture) · [Back to portfolio](../../)
 
+<details>
+<summary>Play animated scroll preview (7 seconds)</summary>
+
 ![Animated scroll preview of OVERTURE Film Festival](../../assets/previews/overture.gif)
+
+</details>
 
 ## The design idea
 

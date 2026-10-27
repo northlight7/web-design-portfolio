@@ -6,7 +6,12 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-meridian/)** · [View source code](https://github.com/northlight7/cinematic-meridian) · [Back to portfolio](../../)
 
+<details>
+<summary>Play animated scroll preview (7 seconds)</summary>
+
 ![Animated scroll preview of MERIDIAN Timeworks](../../assets/previews/meridian.gif)
+
+</details>
 
 ## The design idea
 
