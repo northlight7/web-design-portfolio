@@ -27,7 +27,7 @@ Select the projected frame, filter films, open their notes and save or remove pr
 
 ### Desktop
 
-![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-desktop.jpg)
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-desktop.jpg" alt="OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme." width="900" height="650">
 
 ### Mobile
 

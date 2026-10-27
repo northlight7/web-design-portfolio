@@ -27,7 +27,7 @@ Three routes reveal matching contour paths and field notes. Hover and keyboard f
 
 ### Desktop
 
-![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-desktop.jpg)
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-desktop.jpg" alt="ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas." width="900" height="650">
 
 ### Mobile
 
