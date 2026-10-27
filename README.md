@@ -12,7 +12,7 @@ Each project has an animated scroll preview, desktop and mobile screenshots, sou
 
 An alpine journey that climbs through a mountain landscape before opening into an interactive route atlas.
 
-![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-desktop.jpg)
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-desktop.jpg" alt="ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas." width="900" height="650">
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
@@ -29,7 +29,7 @@ An alpine journey that climbs through a mountain landscape before opening into a
 
 A watchmaking study that turns a complete timepiece to reveal its mechanical reverse, then invites you to wind it.
 
-![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-desktop.jpg)
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-desktop.jpg" alt="MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel." width="900" height="650">
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
@@ -46,7 +46,7 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 
 A curved filmstrip unfurls into a cinema screen, leading into a programme you can explore and save.
 
-![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-desktop.jpg)
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-desktop.jpg" alt="OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme." width="900" height="650">
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>

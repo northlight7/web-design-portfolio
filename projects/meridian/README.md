@@ -27,7 +27,7 @@ Wind with the crown, slider or one-turn button. Switch the movement finish betwe
 
 ### Desktop
 
-![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-desktop.jpg)
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-desktop.jpg" alt="MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel." width="900" height="650">
 
 ### Mobile
 
