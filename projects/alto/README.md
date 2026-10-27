@@ -6,7 +6,12 @@ An alpine journey that climbs through a mountain landscape before opening into a
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-alto/)** · [View source code](https://github.com/northlight7/cinematic-alto) · [Back to portfolio](../../)
 
+<details>
+<summary>Play animated scroll preview (7 seconds)</summary>
+
 ![Animated scroll preview of ALTO Expeditions](../../assets/previews/alto.gif)
+
+</details>
 
 ## The design idea
 

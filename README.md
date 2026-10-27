@@ -12,7 +12,14 @@ Each project has an animated scroll preview, desktop and mobile screenshots, sou
 
 An alpine journey that climbs through a mountain landscape before opening into an interactive route atlas.
 
+![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](assets/previews/alto-poster.webp)
+
+<details>
+<summary>Play animated scroll preview (7 seconds)</summary>
+
 ![Animated scroll preview of ALTO Expeditions](assets/previews/alto.gif)
+
+</details>
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-alto/)** · [Project notes & screenshots](projects/alto/) · [Source code](https://github.com/northlight7/cinematic-alto)
 
@@ -22,7 +29,14 @@ An alpine journey that climbs through a mountain landscape before opening into a
 
 A watchmaking study that turns a complete timepiece to reveal its mechanical reverse, then invites you to wind it.
 
+![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](assets/previews/meridian-poster.webp)
+
+<details>
+<summary>Play animated scroll preview (7 seconds)</summary>
+
 ![Animated scroll preview of MERIDIAN Timeworks](assets/previews/meridian.gif)
+
+</details>
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-meridian/)** · [Project notes & screenshots](projects/meridian/) · [Source code](https://github.com/northlight7/cinematic-meridian)
 
@@ -32,7 +46,14 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 
 A curved filmstrip unfurls into a cinema screen, leading into a programme you can explore and save.
 
+![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](assets/previews/overture-poster.webp)
+
+<details>
+<summary>Play animated scroll preview (7 seconds)</summary>
+
 ![Animated scroll preview of OVERTURE Film Festival](assets/previews/overture.gif)
+
+</details>
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-overture/)** · [Project notes & screenshots](projects/overture/) · [Source code](https://github.com/northlight7/cinematic-overture)
 
