@@ -9,7 +9,7 @@ A curved filmstrip unfurls into a cinema screen, leading into a programme you ca
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
 
-![Animated scroll preview of OVERTURE Film Festival](../../assets/previews/overture.gif)
+![Animated scroll preview of OVERTURE Film Festival](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture.gif)
 
 </details>
 
@@ -27,11 +27,11 @@ Select the projected frame, filter films, open their notes and save or remove pr
 
 ### Desktop
 
-![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](../../assets/previews/overture-desktop.jpg)
+![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-desktop.jpg)
 
 ### Mobile
 
-<img src="../../assets/previews/overture-mobile.jpg" alt="Mobile view of OVERTURE Film Festival" width="300">
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-mobile.jpg" alt="Mobile view of OVERTURE Film Festival" width="300">
 
 ## Implementation
 
