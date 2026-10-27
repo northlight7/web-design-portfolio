@@ -27,11 +27,11 @@ Select the projected frame, filter films, open their notes and save or remove pr
 
 ### Desktop
 
-![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](../../assets/previews/overture-poster.webp)
+![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](../../assets/previews/overture-desktop.jpg)
 
 ### Mobile
 
-<img src="../../assets/previews/overture-mobile.webp" alt="Mobile view of OVERTURE Film Festival" width="300">
+<img src="../../assets/previews/overture-mobile.jpg" alt="Mobile view of OVERTURE Film Festival" width="300">
 
 ## Implementation
 

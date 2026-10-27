@@ -27,11 +27,11 @@ Three routes reveal matching contour paths and field notes. Hover and keyboard f
 
 ### Desktop
 
-![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](../../assets/previews/alto-poster.webp)
+![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](../../assets/previews/alto-desktop.jpg)
 
 ### Mobile
 
-<img src="../../assets/previews/alto-mobile.webp" alt="Mobile view of ALTO Expeditions" width="300">
+<img src="../../assets/previews/alto-mobile.jpg" alt="Mobile view of ALTO Expeditions" width="300">
 
 ## Implementation
 

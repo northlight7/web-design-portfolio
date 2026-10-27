@@ -27,11 +27,11 @@ Wind with the crown, slider or one-turn button. Switch the movement finish betwe
 
 ### Desktop
 
-![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](../../assets/previews/meridian-poster.webp)
+![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](../../assets/previews/meridian-desktop.jpg)
 
 ### Mobile
 
-<img src="../../assets/previews/meridian-mobile.webp" alt="Mobile view of MERIDIAN Timeworks" width="300">
+<img src="../../assets/previews/meridian-mobile.jpg" alt="Mobile view of MERIDIAN Timeworks" width="300">
 
 ## Implementation
 
