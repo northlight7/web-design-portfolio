@@ -9,7 +9,7 @@ An alpine journey that climbs through a mountain landscape before opening into a
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
 
-![Animated scroll preview of ALTO Expeditions](../../assets/previews/alto.gif)
+![Animated scroll preview of ALTO Expeditions](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto.gif)
 
 </details>
 
@@ -27,11 +27,11 @@ Three routes reveal matching contour paths and field notes. Hover and keyboard f
 
 ### Desktop
 
-![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](../../assets/previews/alto-desktop.jpg)
+![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-desktop.jpg)
 
 ### Mobile
 
-<img src="../../assets/previews/alto-mobile.jpg" alt="Mobile view of ALTO Expeditions" width="300">
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-mobile.jpg" alt="Mobile view of ALTO Expeditions" width="300">
 
 ## Implementation
 

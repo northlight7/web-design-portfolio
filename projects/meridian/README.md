@@ -9,7 +9,7 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
 
-![Animated scroll preview of MERIDIAN Timeworks](../../assets/previews/meridian.gif)
+![Animated scroll preview of MERIDIAN Timeworks](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian.gif)
 
 </details>
 
@@ -27,11 +27,11 @@ Wind with the crown, slider or one-turn button. Switch the movement finish betwe
 
 ### Desktop
 
-![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](../../assets/previews/meridian-desktop.jpg)
+![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-desktop.jpg)
 
 ### Mobile
 
-<img src="../../assets/previews/meridian-mobile.jpg" alt="Mobile view of MERIDIAN Timeworks" width="300">
+<img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-mobile.jpg" alt="Mobile view of MERIDIAN Timeworks" width="300">
 
 ## Implementation
 

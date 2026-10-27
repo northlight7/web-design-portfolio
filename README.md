@@ -12,12 +12,12 @@ Each project has an animated scroll preview, desktop and mobile screenshots, sou
 
 An alpine journey that climbs through a mountain landscape before opening into an interactive route atlas.
 
-![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](assets/previews/alto-desktop.jpg)
+![ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-desktop.jpg)
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
 
-![Animated scroll preview of ALTO Expeditions](assets/previews/alto.gif)
+![Animated scroll preview of ALTO Expeditions](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto.gif)
 
 </details>
 
@@ -29,12 +29,12 @@ An alpine journey that climbs through a mountain landscape before opening into a
 
 A watchmaking study that turns a complete timepiece to reveal its mechanical reverse, then invites you to wind it.
 
-![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](assets/previews/meridian-desktop.jpg)
+![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-desktop.jpg)
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
 
-![Animated scroll preview of MERIDIAN Timeworks](assets/previews/meridian.gif)
+![Animated scroll preview of MERIDIAN Timeworks](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian.gif)
 
 </details>
 
@@ -46,12 +46,12 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 
 A curved filmstrip unfurls into a cinema screen, leading into a programme you can explore and save.
 
-![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](assets/previews/overture-desktop.jpg)
+![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-desktop.jpg)
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
 
-![Animated scroll preview of OVERTURE Film Festival](assets/previews/overture.gif)
+![Animated scroll preview of OVERTURE Film Festival](https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture.gif)
 
 </details>
 
