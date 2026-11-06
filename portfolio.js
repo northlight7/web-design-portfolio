@@ -12,7 +12,6 @@ function stop(figure) {
   poster.src = `assets/previews/${figure.dataset.preview}-poster.webp`
   const button = figure.querySelector('button')
   button.setAttribute('aria-pressed', 'false')
-  button.setAttribute('aria-label', button.dataset.playLabel)
   button.querySelector('.button-label').textContent = 'Play preview'
   button.querySelector('.play-icon').textContent = '▷'
   if (active === figure) active = null
@@ -30,7 +29,6 @@ for (const figure of previews) {
   const button = figure.querySelector('button')
   const video = figure.querySelector('video')
   const status = figure.querySelector('.preview-status')
-  button.dataset.playLabel = button.getAttribute('aria-label')
   button.hidden = false
   video.addEventListener('error', () => useGif(figure))
   figure.querySelector('.poster').addEventListener('error', () => {
@@ -48,7 +46,6 @@ for (const figure of previews) {
     active = figure
     figure.dataset.playing = 'true'
     button.setAttribute('aria-pressed', 'true')
-    button.setAttribute('aria-label', button.dataset.playLabel.replace('Play ', 'Stop '))
     button.querySelector('.button-label').textContent = 'Stop preview'
     button.querySelector('.play-icon').textContent = '□'
     status.textContent = ''
