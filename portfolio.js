@@ -26,6 +26,7 @@ function useGif(figure) {
 }
 
 for (const figure of previews) {
+  if (figure.dataset.motion === 'false') continue
   const button = figure.querySelector('button')
   const video = figure.querySelector('video')
   const status = figure.querySelector('.preview-status')

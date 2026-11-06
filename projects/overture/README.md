@@ -21,7 +21,7 @@ A curved celluloid strip straightens and expands into a full-screen projection, 
 
 Choose a projected frame, filter the programme, read a film note and save a selection.
 
-Select the projected frame, filter films, open their notes and save or remove programme selections.
+Select the projected frame, filter films, open their notes and save or remove programme selections. Saved films appear in a live programme band above the grid.
 
 ## Screenshots
 
@@ -37,6 +37,6 @@ Select the projected frame, filter films, open their notes and save or remove pr
 
 HTML, CSS, JavaScript and Three.js, with locally hosted dependencies and assets. Responsive layouts and motion-off controls support different viewing preferences. Hosted independently on GitHub Pages.
 
-Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed. The preview condenses an actual browser scroll walkthrough into a short silent loop.
+Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed.
 
 [Open the gallery](https://northlight7.github.io/web-design-portfolio/) · [View all projects](../../)

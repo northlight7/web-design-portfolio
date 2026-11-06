@@ -19,9 +19,9 @@ A continuous camera ascent brings depth to the terrain. The landscape resolves i
 
 ## What to try
 
-Scroll through the ascent, then choose a route to reveal its contour path and field notes.
+Scroll through the ascent, then choose a route to reveal its contour path, ascent profile and field notes.
 
-Three routes reveal matching contour paths and field notes. Hover and keyboard focus stay local to the controls.
+Three routes reveal matching contour paths and ascent profiles sampled from the same terrain the scene is built on.
 
 ## Screenshots
 
@@ -37,6 +37,6 @@ Three routes reveal matching contour paths and field notes. Hover and keyboard f
 
 HTML, CSS, JavaScript and Three.js, with locally hosted dependencies and assets. Responsive layouts and motion-off controls support different viewing preferences. Hosted independently on GitHub Pages.
 
-Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed. The preview condenses an actual browser scroll walkthrough into a short silent loop.
+Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed.
 
 [Open the gallery](https://northlight7.github.io/web-design-portfolio/) · [View all projects](../../)

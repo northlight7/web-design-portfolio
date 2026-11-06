@@ -15,7 +15,7 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 
 ## The design idea
 
-The timepiece turns as one complete object. Its front-to-back reveal follows the mechanics of a watch.
+The timepiece turns as one complete object, showing the leather inside of the strap as it goes. Its front-to-back reveal follows the mechanics of a watch.
 
 ## What to try
 
@@ -37,6 +37,6 @@ Wind with the crown, slider or one-turn button. Switch the movement finish betwe
 
 HTML, CSS, JavaScript and Three.js, with locally hosted dependencies and assets. Responsive layouts and motion-off controls support different viewing preferences. Hosted independently on GitHub Pages.
 
-Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed. The preview condenses an actual browser scroll walkthrough into a short silent loop.
+Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed.
 
 [Open the gallery](https://northlight7.github.io/web-design-portfolio/) · [View all projects](../../)
