@@ -2,9 +2,9 @@
 
 Watchmaking & luxury · Independent concept demo
 
-A watchmaking study that turns a complete timepiece to reveal its mechanical reverse, then invites you to wind it.
+The timepiece turns over in your hand to show its movement, then waits for you to wind it.
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-meridian/)** · [View source code](https://github.com/northlight7/cinematic-meridian) · [Back to portfolio](../../)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-meridian/)** · [Read the code](https://github.com/northlight7/cinematic-meridian) · [Back to portfolio](../../)
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
@@ -37,6 +37,6 @@ Wind with the crown, slider or one-turn button. Switch the movement finish betwe
 
 HTML, CSS, JavaScript and Three.js, with locally hosted dependencies and assets. Responsive layouts and motion-off controls support different viewing preferences. Hosted independently on GitHub Pages.
 
-Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed.
+Designed, written and built by northlight7. This is fictional concept work, with no client affiliation or commercial results claimed.
 
 [Open the gallery](https://northlight7.github.io/web-design-portfolio/) · [View all projects](../../)

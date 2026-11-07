@@ -4,7 +4,7 @@ Audio & object design · Independent concept demo
 
 A turntable concept where the record lifts out of its sleeve and settles onto the spindle, then waits for the needle.
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-auralis/)** · [View source code](https://github.com/northlight7/cinematic-auralis) · [Back to portfolio](../../)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-auralis/)** · [Read the code](https://github.com/northlight7/cinematic-auralis) · [Back to portfolio](../../)
 
 ## The design idea
 
@@ -30,6 +30,6 @@ Three finishes change the plinth material. Drop the needle to start the transpor
 
 HTML, CSS, JavaScript and Three.js, with locally hosted dependencies and assets. Responsive layouts and motion-off controls support different viewing preferences. Hosted independently on GitHub Pages.
 
-Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed.
+Designed, written and built by northlight7. This is fictional concept work, with no client affiliation or commercial results claimed.
 
 [Open the gallery](https://northlight7.github.io/web-design-portfolio/) · [View all projects](../../)

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How the six were made | northlight7</title>
+<meta name="description" content="Process notes for six interactive concept sites: one shared engine, measured performance, rejected approaches and the changes that survived.">
+<link rel="canonical" href="https://northlight7.github.io/web-design-portfolio/process/">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://northlight7.github.io/web-design-portfolio/process/">
+<meta property="og:title" content="How the six were made | northlight7">
+<meta property="og:description" content="One shared engine, measured performance and the approaches that were rejected.">
+<meta property="og:image" content="https://northlight7.github.io/web-design-portfolio/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#f4f3ee">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="../assets/sans.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../portfolio.css">
+<style>
+.proc-section{padding:54px 0;border-top:1px solid var(--line)}
+.proc-grid{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.4fr);gap:64px;align-items:start}
+.proc-kicker{font-size:12px;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);margin:0 0 16px}
+.proc-lede{font-size:21px;line-height:1.45;margin:0 0 20px}
+.proc-body p{color:var(--muted);margin:0 0 18px}
+.proc-body p:last-child{margin-bottom:0}
+.proc-list{list-style:none;padding:0;margin:0;border-top:1px solid var(--line)}
+.proc-list li{display:grid;grid-template-columns:52px minmax(0,1fr);gap:22px;padding:19px 0;border-bottom:1px solid var(--line)}
+.proc-list .n{font-size:12px;color:#3f6149;font-variant-numeric:tabular-nums;padding-top:4px}
+.proc-list h3{font-size:17px;margin:0 0 5px;font-weight:600}
+.proc-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.6}
+.proc-cards{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.proc-card{border:1px solid var(--line);padding:24px;background:#f8f7f2}
+.proc-card h3{font-size:16px;margin:0 0 10px}
+.proc-card p{font-size:14px;color:var(--muted);margin:0 0 16px;line-height:1.6}
+.proc-card dl{display:grid;grid-template-columns:1fr auto;gap:7px 18px;font-size:13px;margin:0;font-variant-numeric:tabular-nums}
+.proc-card dt{color:var(--muted)}
+.proc-card dd{margin:0;text-align:right}
+.proc-note{font-size:13px;color:var(--muted);line-height:1.7;margin:18px 0 0}
+.proc-close{ padding:54px 0 70px;border-top:1px solid var(--line)}
+.proc-close p{color:var(--muted);max-width:620px;margin:0 0 22px}
+@media(max-width:900px){.proc-grid{grid-template-columns:1fr;gap:26px}.proc-cards{grid-template-columns:1fr}}
+@media(max-width:740px){.proc-section{padding:38px 0}.proc-list li{grid-template-columns:40px minmax(0,1fr);gap:14px}.proc-lede{font-size:18px}}
+</style>
+</head>
+<body id="top">
+<a class="skip" href="#process">Skip to process notes</a>
+<div class="shell">
+<header><a class="wordmark" href="../"><span class="brand-mark" aria-hidden="true">n.</span><span>northlight7 <span class="wordmark-sub">/ Web design</span></span></a><nav aria-label="Main"><a href="../#work">Selected work <span class="count">06</span></a><a href="./">Process</a><a href="https://github.com/northlight7">GitHub <span aria-hidden="true">↗</span></a></nav></header>
+<main id="process">
+<section class="intro" aria-labelledby="intro-title"><div><p class="eyebrow"><span aria-hidden="true"></span> Process notes</p><h1 id="intro-title">Measured,<br>then kept.</h1></div><div class="intro-note"><p>Six sites, one engine, and a process built around looking at the result instead of trusting the first pass.</p><p>These notes cover what is shared, what was measured, what was thrown away, and what changed after the first build.</p><a class="text-link" href="../#work">Back to the work <span aria-hidden="true">↗</span></a></div></section>
+
+<section class="proc-section" aria-labelledby="engine-title"><div class="proc-grid"><div><p class="proc-kicker">01 / Structure</p><h2 id="engine-title">One engine,<br>six directions.</h2></div><div class="proc-body"><p class="proc-lede">The six share a small Three.js core and a common inner-page system. What changes is the art direction, not the plumbing.</p><p>The core handles the renderer, the scroll timeline, motion preferences, context loss, resize and teardown. Each project supplies its own scene, camera path, palette and type. That split keeps the behaviour consistent and makes a fix in one place apply everywhere.</p><p>The shared layer is also why the six feel related without looking the same: a landscape, a watch, a filmstrip, a turntable, a bloom and a house all move to the same rules.</p></div></div></section>
+
+<section class="proc-section" aria-labelledby="measure-title"><div class="proc-grid"><div><p class="proc-kicker">02 / Method</p><h2 id="measure-title">Three runs,<br>then a median.</h2></div><div class="proc-body"><p class="proc-lede">A single performance score on this machine is not a measurement. The first run of each site is a cold start and reads far worse than the second and third.</p><p>Every comparison uses the median of three mobile runs. Where a change looked like it might cost performance, the old and new builds were measured in the same session, back to back. If the spread between runs was larger than the effect, the change did not count as an improvement.</p><p>That rule killed two changes that looked reasonable on paper.</p></div></div></section>
+
+<section class="proc-section" aria-labelledby="reject-title"><div class="proc-grid"><div><p class="proc-kicker">03 / Rejected</p><h2 id="reject-title">Two things<br>that did not survive.</h2></div><div><div class="proc-cards">
+<article class="proc-card"><h3>Deferred module boot</h3><p>Loading the 3D module after first paint looked like an easy win. It moved the work instead of removing it, and the main thread paid for it later.</p><dl><dt>Deferred, three runs</dt><dd>83 / 82 / 84</dd><dt>Blocking time</dt><dd>631 to 757 ms</dd><dt>Original, three runs</dt><dd>41 / 97 / 97</dd><dt>Blocking time</dt><dd>190 ms</dd></dl><p class="proc-note">Reverted on all six. The first paint improved, the interaction did not.</p></article>
+<article class="proc-card"><h3>Lighter terrain material</h3><p>A cheaper material and no antialiasing below 700 px should have helped the heaviest scene. The same-session comparison could not separate the change from run-to-run noise.</p><dl><dt>Lighter build</dt><dd>81 / 90 / 86</dd><dt>Median</dt><dd>86</dd><dt>Same-session original</dt><dd>82 / 81 / 83</dd><dt>Median</dt><dd>82</dd></dl><p class="proc-note">Both reverted. A four-point spread across runs is not evidence for a four-point change.</p></article>
+</div><p class="proc-note">The rule was simple: if the effect is smaller than the noise, keep the version that looks better.</p></div></div></section>
+
+<section class="proc-section" aria-labelledby="passes-title"><div class="proc-grid"><div><p class="proc-kicker">04 / Passes</p><h2 id="passes-title">What the<br>passes changed.</h2></div><div><ul class="proc-list">
+<li><span class="n">01</span><div><h3>ALTO</h3><p>The field atlas now draws its ascent profile from the same height field that builds the terrain. The drawing and the mountain cannot disagree, and the three routes share one source of truth.</p></div></li>
+<li><span class="n">02</span><div><h3>MERIDIAN</h3><p>The case finishes turning at 70 percent of the pinned section instead of 88, so the movement holds on screen before the scene releases. The reverse of the strap gained a leather lining, grain and stitching where it had been a dark slab.</p></div></li>
+<li><span class="n">03</span><div><h3>OVERTURE</h3><p>The saved-films band was rebuilt from a bordered box into an editorial rule with dark ticket stubs after the first pass read as a form rather than a programme.</p></div></li>
+<li><span class="n">04</span><div><h3>Auralis</h3><p>The transport readout was added, and the reveal no longer dims the object it is revealing.</p></div></li>
+<li><span class="n">05</span><div><h3>Nocturne</h3><p>The cap now rests inside the frame, and the headline clears the bottle instead of crossing it.</p></div></li>
+<li><span class="n">06</span><div><h3>Monolith</h3><p>An accessibility pass only. The art direction was left alone because it was already carrying the idea.</p></div></li>
+</ul></div></div></section>
+
+<section class="proc-section" aria-labelledby="quiet-title"><div class="proc-grid"><div><p class="proc-kicker">05 / The quiet parts</p><h2 id="quiet-title">The work that<br>does not show.</h2></div><div class="proc-body"><p class="proc-lede">A scene that looks right at 1440 px is not finished. Every page was also checked at mobile width, with keyboard focus, and with motion turned off.</p><p>One label introduced during a late pass landed at 3.65:1 contrast. It was caught in the final check and fixed to full ink before release. The rest of the type was checked against the same rule.</p><p>The galleries are static. There is no login, no tracking script and no paid service. Each demo is buildless and can be served from any static file server, which also means there is no server to fall over.</p></div></div></section>
+
+<section class="proc-close" aria-labelledby="close-title"><h2 id="close-title">What this is not.</h2><p>The six are independent concept projects. There are no clients, no commercial results and no real products behind them. The value is in the direction, the interaction and the finish, not in a claim about a business outcome.</p><a class="text-link" href="../#work">Back to the work <span aria-hidden="true">↗</span></a></section>
+</main>
+<footer><span>northlight7 <span class="footer-muted">/ Process notes</span></span><a href="../">Back to the gallery <span aria-hidden="true">↗</span></a><a href="https://github.com/northlight7/web-design-portfolio">Portfolio repository <span aria-hidden="true">↗</span></a><a href="#top">Back to top <span aria-hidden="true">↑</span></a></footer>
+</div>
+</body></html>

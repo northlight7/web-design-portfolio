@@ -10,7 +10,7 @@ Each project has a still preview, desktop and mobile screenshots, source code an
 
 **Travel & adventure** · Independent concept
 
-An alpine journey that climbs through a mountain landscape before opening into an interactive route atlas.
+You climb from the valley to the ridge, then pick a route and read its profile against the terrain the scene is built on.
 
 <img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/alto-desktop.jpg" alt="ALTO travel concept with a snow-covered mountain, a warm paper reading panel and an interactive route atlas." width="900" height="650">
 
@@ -21,13 +21,13 @@ An alpine journey that climbs through a mountain landscape before opening into a
 
 </details>
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-alto/)** · [Project notes & screenshots](projects/alto/) · [Source code](https://github.com/northlight7/cinematic-alto)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-alto/)** · [Project notes & screenshots](projects/alto/) · [Read the code](https://github.com/northlight7/cinematic-alto)
 
 ## MERIDIAN Timeworks
 
 **Watchmaking & luxury** · Independent concept
 
-A watchmaking study that turns a complete timepiece to reveal its mechanical reverse, then invites you to wind it.
+The timepiece turns over in your hand to show its movement, then waits for you to wind it.
 
 <img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/meridian-desktop.jpg" alt="MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel." width="900" height="650">
 
@@ -38,13 +38,13 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 
 </details>
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-meridian/)** · [Project notes & screenshots](projects/meridian/) · [Source code](https://github.com/northlight7/cinematic-meridian)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-meridian/)** · [Project notes & screenshots](projects/meridian/) · [Read the code](https://github.com/northlight7/cinematic-meridian)
 
 ## OVERTURE Film Festival
 
 **Film & culture** · Independent concept
 
-A curved filmstrip unfurls into a cinema screen, leading into a programme you can explore and save.
+A curved filmstrip straightens into a screen. The programme below is yours to filter, read and save.
 
 <img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/overture-desktop.jpg" alt="OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme." width="900" height="650">
 
@@ -55,7 +55,7 @@ A curved filmstrip unfurls into a cinema screen, leading into a programme you ca
 
 </details>
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-overture/)** · [Project notes & screenshots](projects/overture/) · [Source code](https://github.com/northlight7/cinematic-overture)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-overture/)** · [Project notes & screenshots](projects/overture/) · [Read the code](https://github.com/northlight7/cinematic-overture)
 
 ## Auralis Audio
 
@@ -65,7 +65,7 @@ A turntable concept where the record lifts out of its sleeve and settles onto th
 
 <img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/auralis-desktop.jpg" alt="Auralis turntable concept in cream and walnut with a record loading from its sleeve." width="900" height="650">
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-auralis/)** · [Project notes & screenshots](projects/auralis/) · [Source code](https://github.com/northlight7/cinematic-auralis)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-auralis/)** · [Project notes & screenshots](projects/auralis/) · [Read the code](https://github.com/northlight7/cinematic-auralis)
 
 ## Nocturne Atelier
 
@@ -75,7 +75,7 @@ A fragrance study that opens a night bloom around a portrait bottle and turns ea
 
 <img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/nocturne-desktop.jpg" alt="Nocturne No.04 fragrance bottle surrounded by a large pink night bloom." width="900" height="650">
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-nocturne/)** · [Project notes & screenshots](projects/nocturne/) · [Source code](https://github.com/northlight7/cinematic-nocturne)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-nocturne/)** · [Project notes & screenshots](projects/nocturne/) · [Read the code](https://github.com/northlight7/cinematic-nocturne)
 
 ## Monolith Architecture
 
@@ -85,12 +85,16 @@ A courtyard house that grows out of its own dimensional drawing, then lets you s
 
 <img src="https://raw.githubusercontent.com/northlight7/web-design-portfolio/main/assets/previews/monolith-desktop.jpg" alt="Monolith courtyard house as a dimensional wireframe turning into a built model." width="900" height="650">
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-monolith/)** · [Project notes & screenshots](projects/monolith/) · [Source code](https://github.com/northlight7/cinematic-monolith)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-monolith/)** · [Project notes & screenshots](projects/monolith/) · [Read the code](https://github.com/northlight7/cinematic-monolith)
 
 ## About the collection
 
-Created through AI-assisted design and development, iterative art direction and browser testing. These are fictional concept projects, with no client affiliation or commercial results claimed.
+Independent concept work by northlight7. Art direction, interaction design, copy and browser testing are mine. These are fictional projects, with no client affiliation or commercial results claimed.
+
+The six share one small Three.js engine and a common page system. Each project has its own scene, palette and motion score. That is a deliberate split: consistent behaviour underneath, distinct direction on top.
 
 The animated previews condense actual browser scroll walkthroughs into short silent loops. All six galleries provide still images, and the project folders include mobile screenshots.
 
-The gallery and every demo are static sites hosted on GitHub Pages, with no login, no paid service and no runtime dependency on any AI product. Each demo is buildless and can be served by any local static HTTP server.
+The gallery and every demo are static sites hosted on GitHub Pages, with no login and no paid service. Each demo is buildless and can be served by any local static HTTP server.
+
+**[How the six were made ↗](https://northlight7.github.io/web-design-portfolio/process/)**

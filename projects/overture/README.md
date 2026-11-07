@@ -2,9 +2,9 @@
 
 Film & culture · Independent concept demo
 
-A curved filmstrip unfurls into a cinema screen, leading into a programme you can explore and save.
+A curved filmstrip straightens into a screen. The programme below is yours to filter, read and save.
 
-**[Visit the live site ↗](https://northlight7.github.io/cinematic-overture/)** · [View source code](https://github.com/northlight7/cinematic-overture) · [Back to portfolio](../../)
+**[Visit the live site ↗](https://northlight7.github.io/cinematic-overture/)** · [Read the code](https://github.com/northlight7/cinematic-overture) · [Back to portfolio](../../)
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
@@ -37,6 +37,6 @@ Select the projected frame, filter films, open their notes and save or remove pr
 
 HTML, CSS, JavaScript and Three.js, with locally hosted dependencies and assets. Responsive layouts and motion-off controls support different viewing preferences. Hosted independently on GitHub Pages.
 
-Created through AI-assisted design and development, iterative art direction and browser testing. This is fictional concept work, with no client affiliation or commercial results claimed.
+Designed, written and built by northlight7. This is fictional concept work, with no client affiliation or commercial results claimed.
 
 [Open the gallery](https://northlight7.github.io/web-design-portfolio/) · [View all projects](../../)
